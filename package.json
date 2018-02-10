@@ -20,5 +20,8 @@
     "url": "https://github.com/humhann/p5-example/issues"
   },
   "homepage": "https://github.com/humhann/p5-example#readme",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "p5": "^0.6.0"
+  }
 }
