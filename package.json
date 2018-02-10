@@ -1,0 +1,24 @@
+{
+  "name": "p5-example",
+  "version": "0.0.1",
+  "description": "Example project using p5.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humhann/p5-example.git"
+  },
+  "keywords": [
+    "p5.js",
+    "example"
+  ],
+  "author": "Gregor Hann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humhann/p5-example/issues"
+  },
+  "homepage": "https://github.com/humhann/p5-example#readme",
+  "private": true
+}
