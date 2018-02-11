@@ -23,5 +23,8 @@
   "private": true,
   "dependencies": {
     "p5": "^0.6.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
   }
 }
