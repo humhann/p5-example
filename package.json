@@ -24,11 +24,11 @@
   "homepage": "https://github.com/humhann/p5-example#readme",
   "private": true,
   "dependencies": {
-    "p5": "^0.9.0"
+    "p5": "1.9.0"
   },
   "devDependencies": {
     "webpack": "^4.39.1",
     "webpack-cli": "^3.3.7",
-    "webpack-dev-server": "^3.8.0"
+    "webpack-dev-server": "^4.15.1"
   }
 }
